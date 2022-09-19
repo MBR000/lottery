@@ -4,6 +4,6 @@
 
 使用html和css完成
 
-灵感和部分代码来源于 [3D旋转卡片](https://www.bilibili.com/video/BV1BF411v7hA?spm_id_from=333.999.0.0)
+修改于 [3D旋转卡片](https://www.bilibili.com/video/BV1BF411v7hA?spm_id_from=333.999.0.0)
 
 已经部署在 https://mbr000.github.io/lottery/
